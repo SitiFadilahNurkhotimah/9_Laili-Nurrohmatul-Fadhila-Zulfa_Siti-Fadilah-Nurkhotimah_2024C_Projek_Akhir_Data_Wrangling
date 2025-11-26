@@ -7,14 +7,15 @@
 - Siti Fadilah Nurkhotimah  (1314623019 – UNJ / 251155009 – UNESA)
 - Laili Nurrohmatul Fadhila Zulfa		(24031554093 – UNESA)
 
-# Dosen Pengampu: Ulfa Siti Nuraini, S.Stat., M.Stat.
+# Dosen Pengampu: 
+Ulfa Siti Nuraini, S.Stat., M.Stat.
 
 ## Deskripsi
 Proyek ini bertujuan untuk melakukan data wrangling pada tiga dataset:
-- Data iklim - Kaggle
-https://www.kaggle.com/datasets/greegtitan/indonesia-climate 
-- Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) Indonesia
-https://www.bps.go.id/id/statistics-table/2/MTQxIzI=/population-density-by-province.html
-- Data kasus DBD - Kementerian Kesehatan (Profil Kesehatan Indonesia)
-https://www.kemkes.go.id/id/category-download/profil-kesehatan
+1. Data Iklim - Kaggle => Climate Data Daily IDN
+   https://www.kaggle.com/datasets/greegtitan/indonesia-climate
+2. Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) => Kepadatan Penduduk menurut Provinsi (jiwa/km2)) Tahun 2019 dan 2020
+   https://www.bps.go.id/id/statistics-table/2/MTQxIzI=/population-density-by-province.html
+3. Data Kasus DBD - Kementerian Kesehatan => Publikasi Tahunan: Profil Kesehatan Indonesia Tahun 2019 dan 2020)
+   https://www.kemkes.go.id/id/category-download/profil-kesehatan
 
