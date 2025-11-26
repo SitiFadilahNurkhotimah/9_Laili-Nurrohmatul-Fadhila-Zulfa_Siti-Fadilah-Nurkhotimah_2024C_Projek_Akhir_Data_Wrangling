@@ -3,14 +3,14 @@
 "Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020"
 
 # Kelompok 9 - 2024 C
-# Anggota Kelompok:
+## Anggota Kelompok:
 - Siti Fadilah Nurkhotimah  (1314623019 – UNJ / 251155009 – UNESA)
 - Laili Nurrohmatul Fadhila Zulfa		(24031554093 – UNESA)
 
 # Dosen Pengampu: 
 Ulfa Siti Nuraini, S.Stat., M.Stat.
 
-## Deskripsi
+# Deskripsi
 Proyek ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 1. Data Iklim - Kaggle => Climate Data Daily IDN
    https://www.kaggle.com/datasets/greegtitan/indonesia-climate
